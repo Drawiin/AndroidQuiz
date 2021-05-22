@@ -1,4 +1,4 @@
-package com.example.androidquiz
+package com.example.androidquiz.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
